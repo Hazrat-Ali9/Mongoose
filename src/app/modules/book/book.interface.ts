@@ -1,6 +1,6 @@
 import { HydratedDocument } from "mongoose";
 import { Model } from "mongoose";
-
+// Book Interface
 interface IPublisher {
   name: string;
   location: string;
